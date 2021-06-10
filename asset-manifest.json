@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/setinstone06/setinstone.github.io.git/static/css/main.721347b1.chunk.css",
+    "main.js": "/setinstone06/setinstone.github.io.git/static/js/main.ca5c8efa.chunk.js",
+    "main.js.map": "/setinstone06/setinstone.github.io.git/static/js/main.ca5c8efa.chunk.js.map",
+    "runtime-main.js": "/setinstone06/setinstone.github.io.git/static/js/runtime-main.9b113aff.js",
+    "runtime-main.js.map": "/setinstone06/setinstone.github.io.git/static/js/runtime-main.9b113aff.js.map",
+    "static/js/2.d2fccf58.chunk.js": "/setinstone06/setinstone.github.io.git/static/js/2.d2fccf58.chunk.js",
+    "static/js/2.d2fccf58.chunk.js.map": "/setinstone06/setinstone.github.io.git/static/js/2.d2fccf58.chunk.js.map",
+    "index.html": "/setinstone06/setinstone.github.io.git/index.html",
+    "static/css/main.721347b1.chunk.css.map": "/setinstone06/setinstone.github.io.git/static/css/main.721347b1.chunk.css.map",
+    "static/js/2.d2fccf58.chunk.js.LICENSE.txt": "/setinstone06/setinstone.github.io.git/static/js/2.d2fccf58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b113aff.js",
+    "static/js/2.d2fccf58.chunk.js",
+    "static/css/main.721347b1.chunk.css",
+    "static/js/main.ca5c8efa.chunk.js"
+  ]
+}
